@@ -16,6 +16,7 @@ fi
 # Create output directory
 mkdir -p icons
 
+# Generate duplicate entries sharing the same SVG
 cp -v sfc.svg sufami.svg
 cp -v sfc.svg satella.svg
 cp -v md.svg segacd.svg
@@ -35,6 +36,7 @@ for svg_file in *.svg; do
     rm "${base_name}_temp.png"
 done
 
+# Delete duplicate entries
 rm -v satella.svg sufami.svg segacd.svg
 
 echo "Conversion completed. Check the 'icons' directory for the PNG files."
