@@ -22,6 +22,7 @@ cd ./svgs
 cp -v sfc.svg sufami.svg
 cp -v sfc.svg satella.svg
 cp -v md.svg segacd.svg
+cp -v pce.svg pcecd.svg
 
 # Loop over all SVG files in the current directory
 echo "Generating console icons"
@@ -41,11 +42,11 @@ done
 pwd
 
 # Delete duplicate entries
-rm -v satella.svg sufami.svg segacd.svg
+rm -v satella.svg sufami.svg segacd.svg pcecd.svg
 
 cd ../app_svgs
 echo "Generating app icons"
-
+mkdir -p ../icons/app/
 for svg_file in *.svg; do
     # Remove file extension for the output file name
     base_name=$(basename "$svg_file" .svg)
