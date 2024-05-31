@@ -42,35 +42,35 @@
      inkscape:groupmode="layer"
      id="layer1">
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#fff;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
        d="m 28.925507,5.4999866 h 9.888638 v 5.3612194 c 0,0 -9.861994,1.120422 -14.814145,1.120422 -4.952151,0 -14.8141451,-1.120422 -14.8141451,-1.120422 V 5.4999866 h 9.8886371"
        id="path6"
        sodipodi:nodetypes="ccczccc" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#fff;stroke-width:0.999994;stroke-linecap:round;stroke-linejoin:round"
        d="m 19.074492,6.9194365 h 9.851015"
        id="rect1" />
     <path
        id="rect2"
-       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        d="m 7.187504,34.841735 h 33.624992 v 7.658274 H 7.187504 Z" />
     <path
        id="rect3"
-       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        d="M 22.550387,28.00048 H 11.568451 V 11.115368 m 24.863098,0 V 28.00048 H 25.449612"
        sodipodi:nodetypes="cccccc" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:none;stroke:#fff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 7.187504,34.841735 4.380947,-6.841253"
        id="path3"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       style="fill:none;stroke:#fff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
        d="m 36.431549,28.000482 4.380947,6.841253"
        id="path4"
        sodipodi:nodetypes="cc" />
     <ellipse
-       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        id="path5"
        cx="24"
        cy="23.379742"
@@ -78,24 +78,24 @@
        ry="3.9488995" />
     <path
        id="circle5"
-       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        d="m 22.550388,27.052747 v 4.32237 c 0,0.800879 0.649013,1.450119 1.449613,1.450119 0.800599,0 1.449612,-0.64924 1.449612,-1.450119 v -4.32237"
        sodipodi:nodetypes="cscsc" />
     <path
        id="rect5"
-       style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#fff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round"
        d="M 20.545926,25.291511 H 15.498222 V 14.433377 h 17.003556 v 10.858134 h -5.047704"
        sodipodi:nodetypes="cccccc" />
     <g
        id="g2"
        transform="translate(0.7706785)">
       <path
-         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:none;stroke:#fff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 18.303814,11.771757 0,-6.2717704"
          id="path1"
          sodipodi:nodetypes="cc" />
       <path
-         style="fill:none;stroke:#ffffff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:none;stroke:#fff;stroke-width:1px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
          d="m 28.154829,11.771757 0,-6.2717704"
          id="path2"
          sodipodi:nodetypes="cc" />
